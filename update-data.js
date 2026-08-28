@@ -8,6 +8,26 @@ const ACTIVE_KEYWORDS = ['반도체', '증착', '진공', 'PVD', 'CVD', 'Sputter
 
 if (!API_KEY) throw new Error('NARA_API_KEY secret is not configured.');
 
+const wait = ms => new Promise(resolve => setTimeout(resolve, ms));
+async function fetchJson(url) {
+  let lastError;
+  for (let attempt = 0; attempt < 4; attempt += 1) {
+    const controller = new AbortController();
+    const timer = setTimeout(() => controller.abort(), 60000);
+    try {
+      const response = await fetch(url, {signal: controller.signal});
+      if (!response.ok) throw new Error(`나라장터 API 응답 오류: ${response.status}`);
+      return await response.json();
+    } catch (error) {
+      lastError = error;
+      if (attempt < 3) await wait(3000 * (attempt + 1));
+    } finally {
+      clearTimeout(timer);
+    }
+  }
+  throw lastError;
+}
+
 const itemValue = (item, keys) => {
   for (const key of keys) if (item && item[key] != null) return item[key];
   return '';
@@ -50,9 +70,7 @@ function mapItems(items, businessType) {
 async function fetchOperation(operation, businessType, params, searchKeyword) {
   const requestParams = new URLSearchParams(params);
   requestParams.set('bidNtceNm', searchKeyword);
-  const response = await fetch(`${API_BASE}/${operation}PPSSrch?${requestParams}`);
-  if (!response.ok) throw new Error(`${operation} API 응답 오류: ${response.status}`);
-  const raw = await response.json();
+  const raw = await fetchJson(`${API_BASE}/${operation}PPSSrch?${requestParams}`);
   const items = raw?.response?.body?.items?.item || raw?.response?.body?.items || [];
   return mapItems(Array.isArray(items) ? items : [items], businessType);
 }
@@ -66,7 +84,13 @@ async function main() {
   const begin = new Date(Date.now() - LOOKBACK_DAYS * 86400000);
   const params = new URLSearchParams({serviceKey: decodedKey, pageNo: '1', numOfRows: ROWS, type: 'json', inqryDiv: '1', inqryBgnDt: formatApiDate(begin), inqryEndDt: formatApiDate(end)});
   const operations = [['getBidPblancListInfoThng', '물품'], ['getBidPblancListInfoServc', '용역']];
-  const responses = await Promise.all(ACTIVE_KEYWORDS.flatMap(keyword => operations.map(([op, type]) => fetchOperation(op, type, params, keyword))));
+  const responses = [];
+  for (const keyword of ACTIVE_KEYWORDS) {
+    for (const [op, type] of operations) {
+      responses.push(await fetchOperation(op, type, params, keyword));
+      await wait(500);
+    }
+  }
   const unique = new Map();
   responses.flat().forEach(item => {
     const key = item.noticeNumber || item.noticeUrl || `${item.businessType}|${item.title}|${item.organization}`;
