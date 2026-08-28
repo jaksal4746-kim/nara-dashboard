@@ -25,15 +25,19 @@ function mapItems(items, businessType) {
   return items.map(item => {
     const title = itemValue(item, ['bidNtceNm', 'bidNtceName']);
     const organization = itemValue(item, ['dminsttNm', 'ntceInsttNm', 'orderInsttNm']);
+    const postedRaw = itemValue(item, ['bidNtceDt', 'bidNtceDate', 'rgstDt']);
+    const posted = postedRaw ? String(postedRaw).slice(0, 10).replaceAll('-', '.') : '';
     const deadlineRaw = itemValue(item, ['bidClseDt', 'bidClseDate']);
     const amount = itemValue(item, ['presmptPrce', 'asignBdgtAmt', 'bdgtAmt']);
     const deadline = deadlineRaw ? String(deadlineRaw).slice(0, 10).replaceAll('-', '.') : '';
-    const urgent = deadline ? (new Date(deadline.replaceAll('.', '-')) - Date.now()) < 72 * 60 * 60 * 1000 : false;
+    const deadlineAt = deadline ? new Date(`${deadline.replaceAll('.', '-')}T23:59:59+09:00`) : null;
+    const urgent = deadlineAt ? deadlineAt >= new Date() && (deadlineAt.getTime() - Date.now()) <= 72 * 60 * 60 * 1000 : false;
     const noticeUrl = itemValue(item, ['bidNtceDtlUrl', 'bidNtceUrl', 'bidNtceUrlInfo']);
     return {
       t: String(title || '공고명 확인 필요'), o: String(organization || '기관 확인 필요'),
       k: '나라장터 ' + businessType, y: businessType,
       p: amount ? String(amount) : '금액 확인 필요', d: deadline, s: urgent,
+      posted, postedDate: posted,
       u: String(noticeUrl || ''), title: String(title || '공고명 확인 필요'),
       organization: String(organization || '기관 확인 필요'), keyword: '나라장터 ' + businessType,
       businessType, baseAmount: amount ? String(amount) : '금액 확인 필요', deadline, urgent,
