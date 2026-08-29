@@ -1,6 +1,6 @@
 {
   "source": "나라장터 장비공고 레이더",
-  "savedAt": "2026-08-29T09:54:53.999Z",
+  "savedAt": "2026-08-29T10:24:47.066Z",
   "live": true,
   "keywordFile": "GitHub Actions 자동 수집",
   "relatedKeywords": [
@@ -3374,29 +3374,6 @@
       "noticeUrl": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01686943&bidPbancOrd=000",
       "source": "조달청 나라장터 API",
       "matchedKeyword": "sputtering"
-    },
-    {
-      "t": "직진성 강화 4인치 마그네트론 스퍼터링 시스템 구매",
-      "o": "경북대학교 산학협력단",
-      "k": "나라장터 물품",
-      "y": "물품",
-      "p": "72000000",
-      "d": "2026.08.11",
-      "s": false,
-      "posted": "2026.07.30",
-      "postedDate": "2026.07.30",
-      "u": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01657990&bidPbancOrd=000",
-      "title": "직진성 강화 4인치 마그네트론 스퍼터링 시스템 구매",
-      "organization": "경북대학교 산학협력단",
-      "keyword": "나라장터 물품",
-      "businessType": "물품",
-      "baseAmount": "72000000",
-      "deadline": "2026.08.11",
-      "urgent": false,
-      "noticeNumber": "R26BK01657990",
-      "noticeUrl": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01657990&bidPbancOrd=000",
-      "source": "조달청 나라장터 API",
-      "matchedKeyword": "스퍼터"
     },
     {
       "t": "Pt 스퍼터링 타겟 구매",
