@@ -1,6 +1,6 @@
 {
   "source": "나라장터 장비공고 레이더",
-  "savedAt": "2026-08-30T17:24:52.310Z",
+  "savedAt": "2026-08-30T18:24:44.555Z",
   "live": true,
   "keywordFile": "GitHub Actions 자동 수집",
   "relatedKeywords": [
@@ -17,29 +17,6 @@
   "relatedKeywordCount": 9,
   "keywordFiltered": true,
   "results": [
-    {
-      "t": "[앵커사업] 반도체 시뮬레이션 연구용 프로그램 라이센스 단기 구매",
-      "o": "연세대학교 미래캠퍼스",
-      "k": "나라장터 물품",
-      "y": "물품",
-      "p": "18000000",
-      "d": "2026.08.10",
-      "s": false,
-      "posted": "2026.07.31",
-      "postedDate": "2026.07.31",
-      "u": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01661298&bidPbancOrd=000",
-      "title": "[앵커사업] 반도체 시뮬레이션 연구용 프로그램 라이센스 단기 구매",
-      "organization": "연세대학교 미래캠퍼스",
-      "keyword": "나라장터 물품",
-      "businessType": "물품",
-      "baseAmount": "18000000",
-      "deadline": "2026.08.10",
-      "urgent": false,
-      "noticeNumber": "R26BK01661298",
-      "noticeUrl": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01661298&bidPbancOrd=000",
-      "source": "조달청 나라장터 API",
-      "matchedKeyword": "반도체"
-    },
     {
       "t": "구미전자공고 실습장비 구입(반도체 후공정 AVI 외관 검사 장비)",
       "o": "중소벤처기업부 구미전자공업고등학교",
