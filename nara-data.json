@@ -1,6 +1,6 @@
 {
   "source": "나라장터 장비공고 레이더",
-  "savedAt": "2026-08-31T15:25:09.051Z",
+  "savedAt": "2026-08-31T15:54:55.277Z",
   "live": true,
   "keywordFile": "GitHub Actions 자동 수집",
   "relatedKeywords": [
@@ -3326,6 +3326,29 @@
       "urgent": false,
       "noticeNumber": "R26BK01701022",
       "noticeUrl": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01701022&bidPbancOrd=000",
+      "source": "조달청 나라장터 API",
+      "matchedKeyword": "웨이퍼"
+    },
+    {
+      "t": "웨이퍼와이어본딩기 구매",
+      "o": "전남대학교",
+      "k": "나라장터 물품",
+      "y": "물품",
+      "p": "44000000",
+      "d": "2026.09.11",
+      "s": false,
+      "posted": "2026.08.31",
+      "postedDate": "2026.08.31",
+      "u": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01705699&bidPbancOrd=000",
+      "title": "웨이퍼와이어본딩기 구매",
+      "organization": "전남대학교",
+      "keyword": "나라장터 물품",
+      "businessType": "물품",
+      "baseAmount": "44000000",
+      "deadline": "2026.09.11",
+      "urgent": false,
+      "noticeNumber": "R26BK01705699",
+      "noticeUrl": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01705699&bidPbancOrd=000",
       "source": "조달청 나라장터 API",
       "matchedKeyword": "웨이퍼"
     },
