@@ -1,6 +1,6 @@
 {
   "source": "나라장터 장비공고 레이더",
-  "savedAt": "2026-08-31T15:54:55.277Z",
+  "savedAt": "2026-08-31T16:24:59.779Z",
   "live": true,
   "keywordFile": "GitHub Actions 자동 수집",
   "relatedKeywords": [
@@ -2015,6 +2015,29 @@
       "urgent": false,
       "noticeNumber": "R26BK01705881",
       "noticeUrl": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01705881&bidPbancOrd=000",
+      "source": "조달청 나라장터 API",
+      "matchedKeyword": "반도체"
+    },
+    {
+      "t": "반도체센서 챔버 구입",
+      "o": "가천대학교 산학협력단",
+      "k": "나라장터 물품",
+      "y": "물품",
+      "p": "85454545",
+      "d": "",
+      "s": false,
+      "posted": "2026.08.31",
+      "postedDate": "2026.08.31",
+      "u": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01706198&bidPbancOrd=000",
+      "title": "반도체센서 챔버 구입",
+      "organization": "가천대학교 산학협력단",
+      "keyword": "나라장터 물품",
+      "businessType": "물품",
+      "baseAmount": "85454545",
+      "deadline": "",
+      "urgent": false,
+      "noticeNumber": "R26BK01706198",
+      "noticeUrl": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01706198&bidPbancOrd=000",
       "source": "조달청 나라장터 API",
       "matchedKeyword": "반도체"
     },
