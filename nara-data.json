@@ -1,6 +1,6 @@
 {
   "source": "나라장터 장비공고 레이더",
-  "savedAt": "2026-08-31T12:55:02.271Z",
+  "savedAt": "2026-08-31T13:24:54.980Z",
   "live": true,
   "keywordFile": "GitHub Actions 자동 수집",
   "relatedKeywords": [
@@ -1969,6 +1969,29 @@
       "urgent": false,
       "noticeNumber": "R26BK01705131",
       "noticeUrl": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01705131&bidPbancOrd=000",
+      "source": "조달청 나라장터 API",
+      "matchedKeyword": "반도체"
+    },
+    {
+      "t": "반도체검사기(정적가속도시스템 및 파라미터측정장비 Q-RoLA50Sm-IV)",
+      "o": "광운대학교 산학협력단",
+      "k": "나라장터 물품",
+      "y": "물품",
+      "p": "87272727",
+      "d": "",
+      "s": false,
+      "posted": "2026.08.31",
+      "postedDate": "2026.08.31",
+      "u": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01705287&bidPbancOrd=000",
+      "title": "반도체검사기(정적가속도시스템 및 파라미터측정장비 Q-RoLA50Sm-IV)",
+      "organization": "광운대학교 산학협력단",
+      "keyword": "나라장터 물품",
+      "businessType": "물품",
+      "baseAmount": "87272727",
+      "deadline": "",
+      "urgent": false,
+      "noticeNumber": "R26BK01705287",
+      "noticeUrl": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01705287&bidPbancOrd=000",
       "source": "조달청 나라장터 API",
       "matchedKeyword": "반도체"
     },
