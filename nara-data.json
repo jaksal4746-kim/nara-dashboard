@@ -1,6 +1,6 @@
 {
   "source": "나라장터 장비공고 레이더",
-  "savedAt": "2026-09-01T15:50:55.578Z",
+  "savedAt": "2026-09-01T17:00:35.735Z",
   "live": true,
   "keywordFile": "GitHub Actions 자동 수집",
   "relatedKeywords": [
@@ -4039,6 +4039,29 @@
       "urgent": false,
       "noticeNumber": "R26BK01708238",
       "noticeUrl": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01708238&bidPbancOrd=000",
+      "source": "조달청 나라장터 API",
+      "matchedKeyword": "반도체"
+    },
+    {
+      "t": "차세대반도체 혁신융합대학 2026 CO-SHOW 행사 기획·설치·운영 용역_PA202601858",
+      "o": "서울대학교산학협력단",
+      "k": "나라장터 용역",
+      "y": "용역",
+      "p": "300000000",
+      "d": "2026.10.12",
+      "s": false,
+      "posted": "2026.09.01",
+      "postedDate": "2026.09.01",
+      "u": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01708609&bidPbancOrd=000",
+      "title": "차세대반도체 혁신융합대학 2026 CO-SHOW 행사 기획·설치·운영 용역_PA202601858",
+      "organization": "서울대학교산학협력단",
+      "keyword": "나라장터 용역",
+      "businessType": "용역",
+      "baseAmount": "300000000",
+      "deadline": "2026.10.12",
+      "urgent": false,
+      "noticeNumber": "R26BK01708609",
+      "noticeUrl": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01708609&bidPbancOrd=000",
       "source": "조달청 나라장터 API",
       "matchedKeyword": "반도체"
     },
