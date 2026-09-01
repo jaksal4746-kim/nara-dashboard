@@ -1,6 +1,6 @@
 {
   "source": "나라장터 장비공고 레이더",
-  "savedAt": "2026-09-01T12:36:29.587Z",
+  "savedAt": "2026-09-01T13:56:40.065Z",
   "live": true,
   "keywordFile": "GitHub Actions 자동 수집",
   "relatedKeywords": [
@@ -2107,6 +2107,29 @@
       "urgent": false,
       "noticeNumber": "R26BK01705361",
       "noticeUrl": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01705361&bidPbancOrd=000",
+      "source": "조달청 나라장터 API",
+      "matchedKeyword": "반도체"
+    },
+    {
+      "t": "충남반도체마이스터고등학교 2027학년도 교복(동복·하복)학교주관구매 입찰 재공고〔2단계(규격·가격 동시)〕",
+      "o": "충청남도교육청 충남반도체마이스터고등학교",
+      "k": "나라장터 물품",
+      "y": "물품",
+      "p": "313236",
+      "d": "2026.09.14",
+      "s": false,
+      "posted": "2026.09.01",
+      "postedDate": "2026.09.01",
+      "u": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01704674&bidPbancOrd=000",
+      "title": "충남반도체마이스터고등학교 2027학년도 교복(동복·하복)학교주관구매 입찰 재공고〔2단계(규격·가격 동시)〕",
+      "organization": "충청남도교육청 충남반도체마이스터고등학교",
+      "keyword": "나라장터 물품",
+      "businessType": "물품",
+      "baseAmount": "313236",
+      "deadline": "2026.09.14",
+      "urgent": false,
+      "noticeNumber": "R26BK01704674",
+      "noticeUrl": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01704674&bidPbancOrd=000",
       "source": "조달청 나라장터 API",
       "matchedKeyword": "반도체"
     },
