@@ -1,6 +1,6 @@
 {
   "source": "나라장터 장비공고 레이더",
-  "savedAt": "2026-09-02T13:31:17.354Z",
+  "savedAt": "2026-09-02T14:30:45.543Z",
   "live": true,
   "keywordFile": "GitHub Actions 자동 수집",
   "relatedKeywords": [
@@ -3420,29 +3420,6 @@
       "noticeUrl": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01705078&bidPbancOrd=000",
       "source": "조달청 나라장터 API",
       "matchedKeyword": "스퍼터"
-    },
-    {
-      "t": "웨이퍼 익스펜딩 및 플리퍼 모듈",
-      "o": "한국생산기술연구원",
-      "k": "나라장터 물품",
-      "y": "물품",
-      "p": "49000000",
-      "d": "2026.08.03",
-      "s": false,
-      "posted": "2026.08.03",
-      "postedDate": "2026.08.03",
-      "u": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01662886&bidPbancOrd=000",
-      "title": "웨이퍼 익스펜딩 및 플리퍼 모듈",
-      "organization": "한국생산기술연구원",
-      "keyword": "나라장터 물품",
-      "businessType": "물품",
-      "baseAmount": "49000000",
-      "deadline": "2026.08.03",
-      "urgent": false,
-      "noticeNumber": "R26BK01662886",
-      "noticeUrl": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01662886&bidPbancOrd=000",
-      "source": "조달청 나라장터 API",
-      "matchedKeyword": "웨이퍼"
     },
     {
       "t": "8인치 웨이퍼 조사 챔버 제작",
