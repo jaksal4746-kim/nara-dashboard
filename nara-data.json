@@ -1,6 +1,6 @@
 {
   "source": "나라장터 장비공고 레이더",
-  "savedAt": "2026-09-02T07:29:45.941Z",
+  "savedAt": "2026-09-02T09:30:30.219Z",
   "live": true,
   "keywordFile": "GitHub Actions 자동 수집",
   "relatedKeywords": [
@@ -4292,6 +4292,29 @@
       "urgent": false,
       "noticeNumber": "R26BK01682577",
       "noticeUrl": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01682577&bidPbancOrd=000",
+      "source": "조달청 나라장터 API",
+      "matchedKeyword": "진공"
+    },
+    {
+      "t": "고진공 반응소결로 수리(부품 교체, 조립, 설치 포함) 용역",
+      "o": "한국에너지기술연구원",
+      "k": "나라장터 용역",
+      "y": "용역",
+      "p": "43759091",
+      "d": "2026.09.04",
+      "s": true,
+      "posted": "2026.09.02",
+      "postedDate": "2026.09.02",
+      "u": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01709202&bidPbancOrd=000",
+      "title": "고진공 반응소결로 수리(부품 교체, 조립, 설치 포함) 용역",
+      "organization": "한국에너지기술연구원",
+      "keyword": "나라장터 용역",
+      "businessType": "용역",
+      "baseAmount": "43759091",
+      "deadline": "2026.09.04",
+      "urgent": true,
+      "noticeNumber": "R26BK01709202",
+      "noticeUrl": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01709202&bidPbancOrd=000",
       "source": "조달청 나라장터 API",
       "matchedKeyword": "진공"
     }
