@@ -1,6 +1,6 @@
 {
   "source": "나라장터 장비공고 레이더",
-  "savedAt": "2026-09-02T15:35:27.729Z",
+  "savedAt": "2026-09-02T15:57:26.477Z",
   "live": true,
   "keywordFile": "GitHub Actions 자동 수집",
   "relatedKeywords": [
@@ -3236,29 +3236,6 @@
       "noticeUrl": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01708045&bidPbancOrd=000",
       "source": "조달청 나라장터 API",
       "matchedKeyword": "진공"
-    },
-    {
-      "t": "2026년 신평장림 스마트제조 고급인력양성사업 Magnetron Sputtering System 교육용 기자재 구매 건",
-      "o": "사단법인 부산산학융합원",
-      "k": "나라장터 물품",
-      "y": "물품",
-      "p": "145454545",
-      "d": "2026.08.07",
-      "s": false,
-      "posted": "2026.08.03",
-      "postedDate": "2026.08.03",
-      "u": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01663263&bidPbancOrd=000",
-      "title": "2026년 신평장림 스마트제조 고급인력양성사업 Magnetron Sputtering System 교육용 기자재 구매 건",
-      "organization": "사단법인 부산산학융합원",
-      "keyword": "나라장터 물품",
-      "businessType": "물품",
-      "baseAmount": "145454545",
-      "deadline": "2026.08.07",
-      "urgent": false,
-      "noticeNumber": "R26BK01663263",
-      "noticeUrl": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01663263&bidPbancOrd=000",
-      "source": "조달청 나라장터 API",
-      "matchedKeyword": "sputtering"
     },
     {
       "t": "2026년 신평장림 스마트제조 고급인력양성사업 교육용 장비(Sputtering System) 구매의 건",
