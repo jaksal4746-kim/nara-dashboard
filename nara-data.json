@@ -1,6 +1,6 @@
 {
   "source": "나라장터 장비공고 레이더",
-  "savedAt": "2026-09-03T10:30:43.303Z",
+  "savedAt": "2026-09-03T12:58:23.515Z",
   "live": true,
   "keywordFile": "GitHub Actions 자동 수집",
   "relatedKeywords": [
@@ -2686,6 +2686,29 @@
       "matchedKeyword": "증착"
     },
     {
+      "t": "펄스레이저증착시스템 구매 ",
+      "o": "경북대학교",
+      "k": "나라장터 물품",
+      "y": "물품",
+      "p": "136000000",
+      "d": "2026.09.17",
+      "s": false,
+      "posted": "2026.09.03",
+      "postedDate": "2026.09.03",
+      "u": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01707017&bidPbancOrd=000",
+      "title": "펄스레이저증착시스템 구매 ",
+      "organization": "경북대학교",
+      "keyword": "나라장터 물품",
+      "businessType": "물품",
+      "baseAmount": "136000000",
+      "deadline": "2026.09.17",
+      "urgent": false,
+      "noticeNumber": "R26BK01707017",
+      "noticeUrl": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01707017&bidPbancOrd=000",
+      "source": "조달청 나라장터 API",
+      "matchedKeyword": "증착"
+    },
+    {
       "t": "고진공 드라이 펌핑 스테이션",
       "o": "한국화학연구원",
       "k": "나라장터 물품",
@@ -4340,29 +4363,6 @@
       "noticeUrl": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01685848&bidPbancOrd=000",
       "source": "조달청 나라장터 API",
       "matchedKeyword": "증착"
-    },
-    {
-      "t": "CNS 헬륨이중배관 진공배기라인 수리 1식",
-      "o": "한국원자력연구원",
-      "k": "나라장터 용역",
-      "y": "용역",
-      "p": "79145455",
-      "d": "2026.08.10",
-      "s": false,
-      "posted": "2026.08.04",
-      "postedDate": "2026.08.04",
-      "u": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01664549&bidPbancOrd=000",
-      "title": "CNS 헬륨이중배관 진공배기라인 수리 1식",
-      "organization": "한국원자력연구원",
-      "keyword": "나라장터 용역",
-      "businessType": "용역",
-      "baseAmount": "79145455",
-      "deadline": "2026.08.10",
-      "urgent": false,
-      "noticeNumber": "R26BK01664549",
-      "noticeUrl": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01664549&bidPbancOrd=000",
-      "source": "조달청 나라장터 API",
-      "matchedKeyword": "진공"
     },
     {
       "t": "CNS 헬륨이중배관 진공배기라인 수리 1식",
