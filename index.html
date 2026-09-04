@@ -27,14 +27,15 @@
 </style>
 <style>
 .side{background:#5a2020!important;background-image:none!important;position:fixed;overflow:hidden}
-.side::after{content:"";position:absolute;z-index:0;left:0;right:0;bottom:0;height:55%;background:linear-gradient(to bottom,rgba(90,32,32,1) 0%,rgba(90,32,32,.72) 12%,rgba(90,32,32,.25) 30%,rgba(90,32,32,0) 48%),url('./autumn-banner.svg') left top no-repeat;background-size:100% 100%,100% 225%;opacity:.96;pointer-events:none}
+.side::after{display:none}
+.side-photo{position:absolute!important;z-index:0!important;left:0;right:0;bottom:0;height:55%;background:linear-gradient(to bottom,rgba(90,32,32,1) 0%,rgba(90,32,32,.72) 12%,rgba(90,32,32,.25) 30%,rgba(90,32,32,0) 48%),url('./autumn-banner.svg') left top no-repeat;background-size:100% 100%,100% 225%;opacity:.96;pointer-events:none}
 .side>*{position:relative;z-index:1}
-.foot{top:auto;bottom:25px;left:18px;right:12px}
+.foot{position:absolute!important;z-index:2!important;top:auto;bottom:25px;left:18px;right:12px}
 </style>
 </head>
 <body>
 <div class="app">
-<aside class="side"><div class="brand"><span class="nts-mark"><img src="nts-symbol.svg" alt="나라장터 상징"></span>공고 레이더</div><nav class="nav"><small>WORKSPACE</small><a class="active" id="dashboardNav" href="#">◈ 공고 대시보드</a><a id="favoritesNav" href="#">☆ 관심 공고</a><a id="reviewNav" href="#">✓ 검토 현황</a><small>INSIGHTS</small><a id="analysisNav" href="#">▥ 공고 분석</a></nav><div class="foot">나라장터 공식 API 연동<br>실시간 공고를 수집합니다.</div></aside>
+<aside class="side"><div class="brand"><span class="nts-mark"><img src="nts-symbol.svg" alt="나라장터 상징"></span>공고 레이더</div><nav class="nav"><small>WORKSPACE</small><a class="active" id="dashboardNav" href="#">◈ 공고 대시보드</a><a id="favoritesNav" href="#">☆ 관심 공고</a><a id="reviewNav" href="#">✓ 검토 현황</a><small>INSIGHTS</small><a id="analysisNav" href="#">▥ 공고 분석</a></nav><div class="side-photo" aria-hidden="true"></div><div class="foot">나라장터 공식 API 연동<br>실시간 공고를 수집합니다.</div></aside>
 <main class="main">
 <header class="top"><div><div class="eyebrow">Korea ON-Line E-Procurement System</div><h1 class="title">나라장터 장비 입찰공고 레이더</h1><div class="sub">반도체·진공·자동화 장비 관련 공고를 한눈에 확인하세요.</div></div><div><span class="refresh-hint">새로고침을 누르면 최신 공고를 불러옵니다.</span><button class="btn" id="refreshBtn">↻ 새로고침</button> <button class="btn primary" id="saveSearchBtn">＋ 검색 저장</button></div></header><div id="dashboardView" class="view active">
 <section class="search"><span style="font-size:20px;color:#9aa6bb">⌕</span><input id="q" placeholder="공고명, 기관명, 키워드로 검색"><select id="type"><option value="all">전체 업무</option><option>물품</option><option>용역</option></select><select id="status"><option value="all">전체 상태</option><option value="soon">마감임박</option></select><button class="btn" id="keywordSettings">⚙ 검색 설정</button><button class="btn primary" id="go">검색</button></section>
