@@ -26,9 +26,10 @@
 .nav a{color:#f4ddd3}.nav a.active,.nav a:hover{background:#9d3d2d;color:#fff7f2}.foot{color:#e8c3b7}.eyebrow{color:#a33d2c}.title{color:#6a2522}.btn.primary{background:#a9432e;border-color:#a9432e}
 </style>
 <style>
-.side{background:#5a2020!important;background-image:none!important;position:fixed;overflow:hidden}
-.side::after{content:"";position:absolute;z-index:0;left:0;right:0;top:42%;height:58%;background:linear-gradient(to bottom,rgba(90,32,32,1) 0%,rgba(90,32,32,.42) 16%,rgba(90,32,32,.08) 34%,rgba(90,32,32,0) 58%),url('./autumn-banner.svg') left top no-repeat;background-size:100% 100%,100% 225%;opacity:.96;pointer-events:none}
+.side{background-color:#5a2020!important;background-image:linear-gradient(to bottom,rgba(90,32,32,.82),rgba(90,32,32,.48)),url('./autumn-banner.svg')!important;background-position:0 0,center top;background-repeat:no-repeat;background-size:100% 100%,100% 225%!important;position:fixed;overflow:hidden}
+.side::after{display:none}
 .side>*{position:relative;z-index:1}
+.foot{top:342px;bottom:auto;left:18px;right:12px}
 </style>
 </head>
 <body>
