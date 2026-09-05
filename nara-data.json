@@ -1,6 +1,6 @@
 {
   "source": "나라장터 장비공고 레이더",
-  "savedAt": "2026-09-05T15:54:53.491Z",
+  "savedAt": "2026-09-05T16:54:31.883Z",
   "live": true,
   "keywordFile": "GitHub Actions 자동 수집",
   "relatedKeywords": [
@@ -2661,29 +2661,6 @@
       "noticeUrl": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01714595&bidPbancOrd=000",
       "source": "조달청 나라장터 API",
       "matchedKeyword": "증착"
-    },
-    {
-      "t": "고효율 진공 원심 농축기 구매",
-      "o": "기후에너지환경부 국립환경과학원",
-      "k": "나라장터 물품",
-      "y": "물품",
-      "p": "112000000",
-      "d": "2026.08.19",
-      "s": false,
-      "posted": "2026.08.06",
-      "postedDate": "2026.08.06",
-      "u": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01669919&bidPbancOrd=000",
-      "title": "고효율 진공 원심 농축기 구매",
-      "organization": "기후에너지환경부 국립환경과학원",
-      "keyword": "나라장터 물품",
-      "businessType": "물품",
-      "baseAmount": "112000000",
-      "deadline": "2026.08.19",
-      "urgent": false,
-      "noticeNumber": "R26BK01669919",
-      "noticeUrl": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01669919&bidPbancOrd=000",
-      "source": "조달청 나라장터 API",
-      "matchedKeyword": "진공"
     },
     {
       "t": "2026 스마트생태공장 진공세척건조장치 구축",
