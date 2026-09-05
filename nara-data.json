@@ -1,6 +1,6 @@
 {
   "source": "나라장터 장비공고 레이더",
-  "savedAt": "2026-09-05T17:26:27.537Z",
+  "savedAt": "2026-09-05T18:30:39.474Z",
   "live": true,
   "keywordFile": "GitHub Actions 자동 수집",
   "relatedKeywords": [
@@ -3512,29 +3512,6 @@
       "noticeUrl": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01705699&bidPbancOrd=000",
       "source": "조달청 나라장터 API",
       "matchedKeyword": "웨이퍼"
-    },
-    {
-      "t": "반도체공동연구소 신축공사 건설폐기물 처리용역",
-      "o": "강원대학교",
-      "k": "나라장터 용역",
-      "y": "용역",
-      "p": "126649091",
-      "d": "2026.08.14",
-      "s": false,
-      "posted": "2026.08.06",
-      "postedDate": "2026.08.06",
-      "u": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01670480&bidPbancOrd=000",
-      "title": "반도체공동연구소 신축공사 건설폐기물 처리용역",
-      "organization": "강원대학교",
-      "keyword": "나라장터 용역",
-      "businessType": "용역",
-      "baseAmount": "126649091",
-      "deadline": "2026.08.14",
-      "urgent": false,
-      "noticeNumber": "R26BK01670480",
-      "noticeUrl": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01670480&bidPbancOrd=000",
-      "source": "조달청 나라장터 API",
-      "matchedKeyword": "반도체"
     },
     {
       "t": "VR기반 반도체 실습 콘텐츠 개발 용역",
