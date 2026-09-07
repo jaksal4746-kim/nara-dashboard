@@ -1,6 +1,6 @@
 {
   "source": "나라장터 장비공고 레이더",
-  "savedAt": "2026-09-07T09:57:22.029Z",
+  "savedAt": "2026-09-07T10:31:19.710Z",
   "live": true,
   "keywordFile": "GitHub Actions 자동 수집",
   "relatedKeywords": [
@@ -2130,6 +2130,29 @@
       "urgent": false,
       "noticeNumber": "R26BK01715503",
       "noticeUrl": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01715503&bidPbancOrd=000",
+      "source": "조달청 나라장터 API",
+      "matchedKeyword": "반도체"
+    },
+    {
+      "t": "충남반도체마이스터고등학교 반도체 실습기자재 구매 입찰공고 〔2단계(규격·가격 동시)]",
+      "o": "충청남도교육청 충남반도체마이스터고등학교",
+      "k": "나라장터 물품",
+      "y": "물품",
+      "p": "1233647273",
+      "d": "2026.09.18",
+      "s": false,
+      "posted": "2026.09.07",
+      "postedDate": "2026.09.07",
+      "u": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01712677&bidPbancOrd=000",
+      "title": "충남반도체마이스터고등학교 반도체 실습기자재 구매 입찰공고 〔2단계(규격·가격 동시)]",
+      "organization": "충청남도교육청 충남반도체마이스터고등학교",
+      "keyword": "나라장터 물품",
+      "businessType": "물품",
+      "baseAmount": "1233647273",
+      "deadline": "2026.09.18",
+      "urgent": false,
+      "noticeNumber": "R26BK01712677",
+      "noticeUrl": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01712677&bidPbancOrd=000",
       "source": "조달청 나라장터 API",
       "matchedKeyword": "반도체"
     },
