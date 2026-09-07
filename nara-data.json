@@ -1,6 +1,6 @@
 {
   "source": "나라장터 장비공고 레이더",
-  "savedAt": "2026-09-07T12:37:49.651Z",
+  "savedAt": "2026-09-07T13:32:40.471Z",
   "live": true,
   "keywordFile": "GitHub Actions 자동 수집",
   "relatedKeywords": [
@@ -3418,6 +3418,29 @@
       "urgent": false,
       "noticeNumber": "R26BK01705078",
       "noticeUrl": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01705078&bidPbancOrd=000",
+      "source": "조달청 나라장터 API",
+      "matchedKeyword": "스퍼터"
+    },
+    {
+      "t": "스퍼터_PA202601784",
+      "o": "서울대학교산학협력단",
+      "k": "나라장터 물품",
+      "y": "물품",
+      "p": "160000000",
+      "d": "2026.09.15",
+      "s": false,
+      "posted": "2026.09.07",
+      "postedDate": "2026.09.07",
+      "u": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01716132&bidPbancOrd=000",
+      "title": "스퍼터_PA202601784",
+      "organization": "서울대학교산학협력단",
+      "keyword": "나라장터 물품",
+      "businessType": "물품",
+      "baseAmount": "160000000",
+      "deadline": "2026.09.15",
+      "urgent": false,
+      "noticeNumber": "R26BK01716132",
+      "noticeUrl": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01716132&bidPbancOrd=000",
       "source": "조달청 나라장터 API",
       "matchedKeyword": "스퍼터"
     },
