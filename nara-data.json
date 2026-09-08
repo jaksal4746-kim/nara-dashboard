@@ -1,6 +1,6 @@
 {
   "source": "나라장터 장비공고 레이더",
-  "savedAt": "2026-09-08T09:57:27.335Z",
+  "savedAt": "2026-09-08T10:56:23.548Z",
   "live": true,
   "keywordFile": "GitHub Actions 자동 수집",
   "relatedKeywords": [
@@ -3257,6 +3257,29 @@
       "urgent": false,
       "noticeNumber": "R26BK01717262",
       "noticeUrl": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01717262&bidPbancOrd=000",
+      "source": "조달청 나라장터 API",
+      "matchedKeyword": "진공"
+    },
+    {
+      "t": "초고진공 저온 측정장치 구매",
+      "o": "전북대학교 산학협력단",
+      "k": "나라장터 물품",
+      "y": "물품",
+      "p": "50000000",
+      "d": "2026.09.15",
+      "s": false,
+      "posted": "2026.09.08",
+      "postedDate": "2026.09.08",
+      "u": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01718120&bidPbancOrd=000",
+      "title": "초고진공 저온 측정장치 구매",
+      "organization": "전북대학교 산학협력단",
+      "keyword": "나라장터 물품",
+      "businessType": "물품",
+      "baseAmount": "50000000",
+      "deadline": "2026.09.15",
+      "urgent": false,
+      "noticeNumber": "R26BK01718120",
+      "noticeUrl": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01718120&bidPbancOrd=000",
       "source": "조달청 나라장터 API",
       "matchedKeyword": "진공"
     },
