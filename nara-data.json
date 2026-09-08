@@ -1,6 +1,6 @@
 {
   "source": "나라장터 장비공고 레이더",
-  "savedAt": "2026-09-08T09:31:47.234Z",
+  "savedAt": "2026-09-08T09:57:27.335Z",
   "live": true,
   "keywordFile": "GitHub Actions 자동 수집",
   "relatedKeywords": [
@@ -4085,6 +4085,29 @@
       "urgent": false,
       "noticeNumber": "R26BK01714725",
       "noticeUrl": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01714725&bidPbancOrd=000",
+      "source": "조달청 나라장터 API",
+      "matchedKeyword": "반도체"
+    },
+    {
+      "t": "멀티프로젝트-웨이퍼 반도체 칩 패키지 및 칩 전기적 특성 평가 용역",
+      "o": "대구경북과학기술원",
+      "k": "나라장터 용역",
+      "y": "용역",
+      "p": "35760000",
+      "d": "2026.09.14",
+      "s": false,
+      "posted": "2026.09.08",
+      "postedDate": "2026.09.08",
+      "u": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01717915&bidPbancOrd=000",
+      "title": "멀티프로젝트-웨이퍼 반도체 칩 패키지 및 칩 전기적 특성 평가 용역",
+      "organization": "대구경북과학기술원",
+      "keyword": "나라장터 용역",
+      "businessType": "용역",
+      "baseAmount": "35760000",
+      "deadline": "2026.09.14",
+      "urgent": false,
+      "noticeNumber": "R26BK01717915",
+      "noticeUrl": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01717915&bidPbancOrd=000",
       "source": "조달청 나라장터 API",
       "matchedKeyword": "반도체"
     },
