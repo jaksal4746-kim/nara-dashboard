@@ -1,6 +1,6 @@
 {
   "source": "나라장터 장비공고 레이더",
-  "savedAt": "2026-09-08T13:58:16.213Z",
+  "savedAt": "2026-09-08T14:33:30.822Z",
   "live": true,
   "keywordFile": "GitHub Actions 자동 수집",
   "relatedKeywords": [
@@ -2686,6 +2686,29 @@
       "matchedKeyword": "증착"
     },
     {
+      "t": "국립목포대학교 전남지역 대학 반도체 장비 지원사업 진공증착기 구입",
+      "o": "목포대학교",
+      "k": "나라장터 물품",
+      "y": "물품",
+      "p": "145000000",
+      "d": "2026.09.10",
+      "s": true,
+      "posted": "2026.09.08",
+      "postedDate": "2026.09.08",
+      "u": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01718491&bidPbancOrd=000",
+      "title": "국립목포대학교 전남지역 대학 반도체 장비 지원사업 진공증착기 구입",
+      "organization": "목포대학교",
+      "keyword": "나라장터 물품",
+      "businessType": "물품",
+      "baseAmount": "145000000",
+      "deadline": "2026.09.10",
+      "urgent": true,
+      "noticeNumber": "R26BK01718491",
+      "noticeUrl": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01718491&bidPbancOrd=000",
+      "source": "조달청 나라장터 API",
+      "matchedKeyword": "반도체"
+    },
+    {
       "t": "마이크로 진공 챔버 프로브 시스템 구매",
       "o": "조선대학교",
       "k": "나라장터 물품",
@@ -3627,6 +3650,29 @@
       "noticeUrl": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01718505&bidPbancOrd=000",
       "source": "조달청 나라장터 API",
       "matchedKeyword": "반도체"
+    },
+    {
+      "t": "300mm 웨이퍼 매엽식 자동 세정 장비",
+      "o": "나노종합기술원",
+      "k": "나라장터 물품",
+      "y": "물품",
+      "p": "1754545455",
+      "d": "2026.09.17",
+      "s": false,
+      "posted": "2026.09.08",
+      "postedDate": "2026.09.08",
+      "u": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01718572&bidPbancOrd=000",
+      "title": "300mm 웨이퍼 매엽식 자동 세정 장비",
+      "organization": "나노종합기술원",
+      "keyword": "나라장터 물품",
+      "businessType": "물품",
+      "baseAmount": "1754545455",
+      "deadline": "2026.09.17",
+      "urgent": false,
+      "noticeNumber": "R26BK01718572",
+      "noticeUrl": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01718572&bidPbancOrd=000",
+      "source": "조달청 나라장터 API",
+      "matchedKeyword": "웨이퍼"
     },
     {
       "t": "VR기반 반도체 실습 콘텐츠 개발 용역",
