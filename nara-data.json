@@ -1,6 +1,6 @@
 {
   "source": "나라장터 장비공고 레이더",
-  "savedAt": "2026-09-09T20:54:55.479Z",
+  "savedAt": "2026-09-09T21:29:10.799Z",
   "live": true,
   "keywordFile": "GitHub Actions 자동 수집",
   "relatedKeywords": [
@@ -2155,29 +2155,6 @@
       "noticeUrl": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01715647&bidPbancOrd=000",
       "source": "조달청 나라장터 API",
       "matchedKeyword": "반도체"
-    },
-    {
-      "t": "소형 열 원자층 증착기 구매",
-      "o": "중앙대학교 산학협력단",
-      "k": "나라장터 물품",
-      "y": "물품",
-      "p": "73700000",
-      "d": "2026.08.19",
-      "s": false,
-      "posted": "2026.08.10",
-      "postedDate": "2026.08.10",
-      "u": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01675437&bidPbancOrd=000",
-      "title": "소형 열 원자층 증착기 구매",
-      "organization": "중앙대학교 산학협력단",
-      "keyword": "나라장터 물품",
-      "businessType": "물품",
-      "baseAmount": "73700000",
-      "deadline": "2026.08.19",
-      "urgent": false,
-      "noticeNumber": "R26BK01675437",
-      "noticeUrl": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01675437&bidPbancOrd=000",
-      "source": "조달청 나라장터 API",
-      "matchedKeyword": "증착"
     },
     {
       "t": "플라즈마 화학 기상 증착기(PECVD 시스템) ",
