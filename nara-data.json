@@ -1,6 +1,6 @@
 {
   "source": "나라장터 장비공고 레이더",
-  "savedAt": "2026-09-12T10:28:21.019Z",
+  "savedAt": "2026-09-12T11:27:25.642Z",
   "live": true,
   "keywordFile": "GitHub Actions 자동 수집",
   "relatedKeywords": [
@@ -17,29 +17,6 @@
   "relatedKeywordCount": 9,
   "keywordFiltered": true,
   "results": [
-    {
-      "t": "반도체특성화대학사업단 공초점 라만 현미경 구매",
-      "o": "국립금오공과대학교산학협력단",
-      "k": "나라장터 물품",
-      "y": "물품",
-      "p": "187000000",
-      "d": "2026.08.25",
-      "s": false,
-      "posted": "2026.08.13",
-      "postedDate": "2026.08.13",
-      "u": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01680628&bidPbancOrd=000",
-      "title": "반도체특성화대학사업단 공초점 라만 현미경 구매",
-      "organization": "국립금오공과대학교산학협력단",
-      "keyword": "나라장터 물품",
-      "businessType": "물품",
-      "baseAmount": "187000000",
-      "deadline": "2026.08.25",
-      "urgent": false,
-      "noticeNumber": "R26BK01680628",
-      "noticeUrl": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01680628&bidPbancOrd=000",
-      "source": "조달청 나라장터 API",
-      "matchedKeyword": "반도체"
-    },
     {
       "t": "[대림대학교]2026년 혁신융합대학(반도체소부장)사업단 기자재 구축 관리(반도체장비제조실습장비) 구매_(신규 재공고)",
       "o": "대림대학교 산학협력단",
