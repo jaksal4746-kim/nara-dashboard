@@ -1,6 +1,6 @@
 {
   "source": "나라장터 장비공고 레이더",
-  "savedAt": "2026-09-12T16:29:07.431Z",
+  "savedAt": "2026-09-12T17:54:39.514Z",
   "live": true,
   "keywordFile": "GitHub Actions 자동 수집",
   "relatedKeywords": [
@@ -17,29 +17,6 @@
   "relatedKeywordCount": 9,
   "keywordFiltered": true,
   "results": [
-    {
-      "t": "반도체 뉴로모픽 어레이 테스트 시스템 구매",
-      "o": "국립한밭대학교 산학협력단",
-      "k": "나라장터 물품",
-      "y": "물품",
-      "p": "129090909",
-      "d": "2026.09.03",
-      "s": false,
-      "posted": "2026.08.13",
-      "postedDate": "2026.08.13",
-      "u": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01679147&bidPbancOrd=000",
-      "title": "반도체 뉴로모픽 어레이 테스트 시스템 구매",
-      "organization": "국립한밭대학교 산학협력단",
-      "keyword": "나라장터 물품",
-      "businessType": "물품",
-      "baseAmount": "129090909",
-      "deadline": "2026.09.03",
-      "urgent": false,
-      "noticeNumber": "R26BK01679147",
-      "noticeUrl": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01679147&bidPbancOrd=000",
-      "source": "조달청 나라장터 API",
-      "matchedKeyword": "반도체"
-    },
     {
       "t": "반도체소자 시뮬레이션 Sentaurus 프로그램 라이센스 구매",
       "o": "경북대학교 산학협력단",
