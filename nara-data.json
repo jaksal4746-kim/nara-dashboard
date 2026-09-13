@@ -1,6 +1,6 @@
 {
   "source": "나라장터 장비공고 레이더",
-  "savedAt": "2026-09-13T10:32:15.962Z",
+  "savedAt": "2026-09-13T10:54:49.332Z",
   "live": true,
   "keywordFile": "GitHub Actions 자동 수집",
   "relatedKeywords": [
@@ -2523,29 +2523,6 @@
       "noticeUrl": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01719107&bidPbancOrd=000",
       "source": "조달청 나라장터 API",
       "matchedKeyword": "증착"
-    },
-    {
-      "t": "2026 스마트생태공장 진공세척건조장치 구축",
-      "o": "주식회사 뉴엠텍",
-      "k": "나라장터 물품",
-      "y": "물품",
-      "p": "883100000",
-      "d": "2026.08.20",
-      "s": false,
-      "posted": "2026.08.14",
-      "postedDate": "2026.08.14",
-      "u": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01682771&bidPbancOrd=000",
-      "title": "2026 스마트생태공장 진공세척건조장치 구축",
-      "organization": "주식회사 뉴엠텍",
-      "keyword": "나라장터 물품",
-      "businessType": "물품",
-      "baseAmount": "883100000",
-      "deadline": "2026.08.20",
-      "urgent": false,
-      "noticeNumber": "R26BK01682771",
-      "noticeUrl": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01682771&bidPbancOrd=000",
-      "source": "조달청 나라장터 API",
-      "matchedKeyword": "진공"
     },
     {
       "t": "제주공공하수처리시설 현대화사업 관급자재(전진공동펌프)",
