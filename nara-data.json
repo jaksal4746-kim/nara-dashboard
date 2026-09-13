@@ -1,6 +1,6 @@
 {
   "source": "나라장터 장비공고 레이더",
-  "savedAt": "2026-09-13T08:30:37.882Z",
+  "savedAt": "2026-09-13T10:32:15.962Z",
   "live": true,
   "keywordFile": "GitHub Actions 자동 수집",
   "relatedKeywords": [
@@ -3399,29 +3399,6 @@
       "matchedKeyword": "웨이퍼"
     },
     {
-      "t": "VR기반 반도체 실습 콘텐츠 개발 용역",
-      "o": "한국공학대학교 산학협력단",
-      "k": "나라장터 용역",
-      "y": "용역",
-      "p": "90909091",
-      "d": "2026.08.27",
-      "s": false,
-      "posted": "2026.08.14",
-      "postedDate": "2026.08.14",
-      "u": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01682628&bidPbancOrd=000",
-      "title": "VR기반 반도체 실습 콘텐츠 개발 용역",
-      "organization": "한국공학대학교 산학협력단",
-      "keyword": "나라장터 용역",
-      "businessType": "용역",
-      "baseAmount": "90909091",
-      "deadline": "2026.08.27",
-      "urgent": false,
-      "noticeNumber": "R26BK01682628",
-      "noticeUrl": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01682628&bidPbancOrd=000",
-      "source": "조달청 나라장터 API",
-      "matchedKeyword": "반도체"
-    },
-    {
       "t": "반도체 아카데미 구축 후속 사업 기획",
       "o": "한국산업기술진흥원",
       "k": "나라장터 용역",
@@ -4225,29 +4202,6 @@
       "noticeUrl": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01685848&bidPbancOrd=000",
       "source": "조달청 나라장터 API",
       "matchedKeyword": "증착"
-    },
-    {
-      "t": "CNS 헬륨이중배관 진공배기라인 수리 1식",
-      "o": "한국원자력연구원",
-      "k": "나라장터 용역",
-      "y": "용역",
-      "p": "79145455",
-      "d": "2026.08.14",
-      "s": false,
-      "posted": "2026.08.14",
-      "postedDate": "2026.08.14",
-      "u": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01682577&bidPbancOrd=000",
-      "title": "CNS 헬륨이중배관 진공배기라인 수리 1식",
-      "organization": "한국원자력연구원",
-      "keyword": "나라장터 용역",
-      "businessType": "용역",
-      "baseAmount": "79145455",
-      "deadline": "2026.08.14",
-      "urgent": false,
-      "noticeNumber": "R26BK01682577",
-      "noticeUrl": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01682577&bidPbancOrd=000",
-      "source": "조달청 나라장터 API",
-      "matchedKeyword": "진공"
     },
     {
       "t": "고진공 반응소결로 수리(부품 교체, 조립, 설치 포함) 용역",
