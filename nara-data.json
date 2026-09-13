@@ -1,6 +1,6 @@
 {
   "source": "나라장터 장비공고 레이더",
-  "savedAt": "2026-09-13T15:29:07.463Z",
+  "savedAt": "2026-09-13T16:30:12.421Z",
   "live": true,
   "keywordFile": "GitHub Actions 자동 수집",
   "relatedKeywords": [
@@ -17,29 +17,6 @@
   "relatedKeywordCount": 9,
   "keywordFiltered": true,
   "results": [
-    {
-      "t": "반도체소자 시뮬레이션 Sentaurus 프로그램 라이센스 구매",
-      "o": "경북대학교 산학협력단",
-      "k": "나라장터 물품",
-      "y": "물품",
-      "p": "42058800",
-      "d": "2026.08.18",
-      "s": false,
-      "posted": "2026.08.14",
-      "postedDate": "2026.08.14",
-      "u": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01683517&bidPbancOrd=000",
-      "title": "반도체소자 시뮬레이션 Sentaurus 프로그램 라이센스 구매",
-      "organization": "경북대학교 산학협력단",
-      "keyword": "나라장터 물품",
-      "businessType": "물품",
-      "baseAmount": "42058800",
-      "deadline": "2026.08.18",
-      "urgent": false,
-      "noticeNumber": "R26BK01683517",
-      "noticeUrl": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01683517&bidPbancOrd=000",
-      "source": "조달청 나라장터 API",
-      "matchedKeyword": "반도체"
-    },
     {
       "t": "[52285](글로컬)AR기반 반도체 유지보수 교육 콘텐츠",
       "o": "포항공과대학교",
@@ -3328,29 +3305,6 @@
       "noticeUrl": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01718572&bidPbancOrd=000",
       "source": "조달청 나라장터 API",
       "matchedKeyword": "웨이퍼"
-    },
-    {
-      "t": "반도체산업 주요동향 및 환경변화 조사 ",
-      "o": "한국산업기술진흥원",
-      "k": "나라장터 용역",
-      "y": "용역",
-      "p": "163454545",
-      "d": "",
-      "s": false,
-      "posted": "2026.08.14",
-      "postedDate": "2026.08.14",
-      "u": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01683836&bidPbancOrd=000",
-      "title": "반도체산업 주요동향 및 환경변화 조사 ",
-      "organization": "한국산업기술진흥원",
-      "keyword": "나라장터 용역",
-      "businessType": "용역",
-      "baseAmount": "163454545",
-      "deadline": "",
-      "urgent": false,
-      "noticeNumber": "R26BK01683836",
-      "noticeUrl": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01683836&bidPbancOrd=000",
-      "source": "조달청 나라장터 API",
-      "matchedKeyword": "반도체"
     },
     {
       "t": "한국폴리텍대학 반도체융합캠퍼스 학생회관 증축공사 건설폐기물 등 처리 용역",
