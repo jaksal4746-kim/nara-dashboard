@@ -1,6 +1,6 @@
 {
   "source": "나라장터 장비공고 레이더",
-  "savedAt": "2026-09-14T08:58:11.603Z",
+  "savedAt": "2026-09-14T09:33:11.208Z",
   "live": true,
   "keywordFile": "GitHub Actions 자동 수집",
   "relatedKeywords": [
@@ -2061,6 +2061,29 @@
       "urgent": true,
       "noticeNumber": "R26BK01725996",
       "noticeUrl": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01725996&bidPbancOrd=000",
+      "source": "조달청 나라장터 API",
+      "matchedKeyword": "반도체"
+    },
+    {
+      "t": "산화물 반도체 기반 전력반도체소자 REM simulation용 license 구매",
+      "o": "한국전기연구원",
+      "k": "나라장터 물품",
+      "y": "물품",
+      "p": "39347000",
+      "d": "2026.09.22",
+      "s": false,
+      "posted": "2026.09.14",
+      "postedDate": "2026.09.14",
+      "u": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01726103&bidPbancOrd=000",
+      "title": "산화물 반도체 기반 전력반도체소자 REM simulation용 license 구매",
+      "organization": "한국전기연구원",
+      "keyword": "나라장터 물품",
+      "businessType": "물품",
+      "baseAmount": "39347000",
+      "deadline": "2026.09.22",
+      "urgent": false,
+      "noticeNumber": "R26BK01726103",
+      "noticeUrl": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01726103&bidPbancOrd=000",
       "source": "조달청 나라장터 API",
       "matchedKeyword": "반도체"
     },
