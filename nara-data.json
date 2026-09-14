@@ -1,6 +1,6 @@
 {
   "source": "나라장터 장비공고 레이더",
-  "savedAt": "2026-09-14T09:58:12.857Z",
+  "savedAt": "2026-09-14T10:32:01.114Z",
   "live": true,
   "keywordFile": "GitHub Actions 자동 수집",
   "relatedKeywords": [
@@ -2521,6 +2521,29 @@
       "urgent": false,
       "noticeNumber": "R26BK01726836",
       "noticeUrl": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01726836&bidPbancOrd=000",
+      "source": "조달청 나라장터 API",
+      "matchedKeyword": "증착"
+    },
+    {
+      "t": "8inch 금속 증착장비",
+      "o": "한국재료연구원",
+      "k": "나라장터 물품",
+      "y": "물품",
+      "p": "90000000",
+      "d": "2026.09.22",
+      "s": false,
+      "posted": "2026.09.14",
+      "postedDate": "2026.09.14",
+      "u": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01727042&bidPbancOrd=000",
+      "title": "8inch 금속 증착장비",
+      "organization": "한국재료연구원",
+      "keyword": "나라장터 물품",
+      "businessType": "물품",
+      "baseAmount": "90000000",
+      "deadline": "2026.09.22",
+      "urgent": false,
+      "noticeNumber": "R26BK01727042",
+      "noticeUrl": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01727042&bidPbancOrd=000",
       "source": "조달청 나라장터 API",
       "matchedKeyword": "증착"
     },
