@@ -1,6 +1,6 @@
 {
   "source": "나라장터 장비공고 레이더",
-  "savedAt": "2026-09-15T13:32:00.258Z",
+  "savedAt": "2026-09-15T13:57:13.616Z",
   "live": true,
   "keywordFile": "GitHub Actions 자동 수집",
   "relatedKeywords": [
@@ -3119,6 +3119,29 @@
       "urgent": false,
       "noticeNumber": "R26BK01722271",
       "noticeUrl": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01722271&bidPbancOrd=000",
+      "source": "조달청 나라장터 API",
+      "matchedKeyword": "진공"
+    },
+    {
+      "t": "주변전실 진공절체개폐기(VTS)",
+      "o": "한국석유공사",
+      "k": "나라장터 물품",
+      "y": "물품",
+      "p": "14400000",
+      "d": "2026.09.16",
+      "s": true,
+      "posted": "2026.09.15",
+      "postedDate": "2026.09.15",
+      "u": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01729377&bidPbancOrd=000",
+      "title": "주변전실 진공절체개폐기(VTS)",
+      "organization": "한국석유공사",
+      "keyword": "나라장터 물품",
+      "businessType": "물품",
+      "baseAmount": "14400000",
+      "deadline": "2026.09.16",
+      "urgent": true,
+      "noticeNumber": "R26BK01729377",
+      "noticeUrl": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01729377&bidPbancOrd=000",
       "source": "조달청 나라장터 API",
       "matchedKeyword": "진공"
     },
