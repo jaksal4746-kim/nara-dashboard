@@ -1,6 +1,6 @@
 {
   "source": "나라장터 장비공고 레이더",
-  "savedAt": "2026-09-15T08:59:48.489Z",
+  "savedAt": "2026-09-15T10:31:20.894Z",
   "live": true,
   "keywordFile": "GitHub Actions 자동 수집",
   "relatedKeywords": [
@@ -4108,6 +4108,29 @@
       "urgent": false,
       "noticeNumber": "R26BK01726247",
       "noticeUrl": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01726247&bidPbancOrd=000",
+      "source": "조달청 나라장터 API",
+      "matchedKeyword": "반도체"
+    },
+    {
+      "t": "2026년 국립한국교통대학교 RISE사업단  반도체 글로벌 프로그램 운영 용역",
+      "o": "국립한국교통대학교 산학협력단",
+      "k": "나라장터 용역",
+      "y": "용역",
+      "p": "54545455",
+      "d": "2026.09.30",
+      "s": false,
+      "posted": "2026.09.15",
+      "postedDate": "2026.09.15",
+      "u": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01729564&bidPbancOrd=000",
+      "title": "2026년 국립한국교통대학교 RISE사업단  반도체 글로벌 프로그램 운영 용역",
+      "organization": "국립한국교통대학교 산학협력단",
+      "keyword": "나라장터 용역",
+      "businessType": "용역",
+      "baseAmount": "54545455",
+      "deadline": "2026.09.30",
+      "urgent": false,
+      "noticeNumber": "R26BK01729564",
+      "noticeUrl": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01729564&bidPbancOrd=000",
       "source": "조달청 나라장터 API",
       "matchedKeyword": "반도체"
     },
