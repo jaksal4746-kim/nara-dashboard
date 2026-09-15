@@ -1,6 +1,6 @@
 {
   "source": "나라장터 장비공고 레이더",
-  "savedAt": "2026-09-15T12:59:39.686Z",
+  "savedAt": "2026-09-15T13:32:00.258Z",
   "live": true,
   "keywordFile": "GitHub Actions 자동 수집",
   "relatedKeywords": [
@@ -2567,6 +2567,29 @@
       "urgent": false,
       "noticeNumber": "R26BK01725929",
       "noticeUrl": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01725929&bidPbancOrd=000",
+      "source": "조달청 나라장터 API",
+      "matchedKeyword": "증착"
+    },
+    {
+      "t": "유기재료증착기 구매",
+      "o": "경북대학교 산학협력단",
+      "k": "나라장터 물품",
+      "y": "물품",
+      "p": "70000000",
+      "d": "2026.09.16",
+      "s": true,
+      "posted": "2026.09.15",
+      "postedDate": "2026.09.15",
+      "u": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01730181&bidPbancOrd=000",
+      "title": "유기재료증착기 구매",
+      "organization": "경북대학교 산학협력단",
+      "keyword": "나라장터 물품",
+      "businessType": "물품",
+      "baseAmount": "70000000",
+      "deadline": "2026.09.16",
+      "urgent": true,
+      "noticeNumber": "R26BK01730181",
+      "noticeUrl": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01730181&bidPbancOrd=000",
       "source": "조달청 나라장터 API",
       "matchedKeyword": "증착"
     },
