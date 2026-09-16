@@ -1,6 +1,6 @@
 {
   "source": "나라장터 장비공고 레이더",
-  "savedAt": "2026-09-16T09:31:07.960Z",
+  "savedAt": "2026-09-16T10:31:26.935Z",
   "live": true,
   "keywordFile": "GitHub Actions 자동 수집",
   "relatedKeywords": [
@@ -3165,6 +3165,29 @@
       "urgent": false,
       "noticeNumber": "R26BK01731290",
       "noticeUrl": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01731290&bidPbancOrd=000",
+      "source": "조달청 나라장터 API",
+      "matchedKeyword": "진공"
+    },
+    {
+      "t": "[실험실습기자재(학과교체2차)] 기계식 진공펌프 등 16종 구매",
+      "o": "부산대학교",
+      "k": "나라장터 물품",
+      "y": "물품",
+      "p": "156987091",
+      "d": "2026.09.22",
+      "s": false,
+      "posted": "2026.09.16",
+      "postedDate": "2026.09.16",
+      "u": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01731836&bidPbancOrd=000",
+      "title": "[실험실습기자재(학과교체2차)] 기계식 진공펌프 등 16종 구매",
+      "organization": "부산대학교",
+      "keyword": "나라장터 물품",
+      "businessType": "물품",
+      "baseAmount": "156987091",
+      "deadline": "2026.09.22",
+      "urgent": false,
+      "noticeNumber": "R26BK01731836",
+      "noticeUrl": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01731836&bidPbancOrd=000",
       "source": "조달청 나라장터 API",
       "matchedKeyword": "진공"
     },
