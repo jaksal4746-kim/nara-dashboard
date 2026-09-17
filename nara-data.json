@@ -1,6 +1,6 @@
 {
   "source": "나라장터 장비공고 레이더",
-  "savedAt": "2026-09-17T07:00:26.981Z",
+  "savedAt": "2026-09-17T10:30:52.111Z",
   "live": true,
   "keywordFile": "GitHub Actions 자동 수집",
   "relatedKeywords": [
@@ -2592,29 +2592,6 @@
       "noticeUrl": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01732100&bidPbancOrd=000",
       "source": "조달청 나라장터 API",
       "matchedKeyword": "반도체"
-    },
-    {
-      "t": "제주공공하수처리시설 현대화사업 관급자재(전진공동펌프)",
-      "o": "한국환경공단 광주전남제주환경본부",
-      "k": "나라장터 물품",
-      "y": "물품",
-      "p": "777272727",
-      "d": "2026.08.19",
-      "s": false,
-      "posted": "2026.08.18",
-      "postedDate": "2026.08.18",
-      "u": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01664321&bidPbancOrd=000",
-      "title": "제주공공하수처리시설 현대화사업 관급자재(전진공동펌프)",
-      "organization": "한국환경공단 광주전남제주환경본부",
-      "keyword": "나라장터 물품",
-      "businessType": "물품",
-      "baseAmount": "777272727",
-      "deadline": "2026.08.19",
-      "urgent": false,
-      "noticeNumber": "R26BK01664321",
-      "noticeUrl": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01664321&bidPbancOrd=000",
-      "source": "조달청 나라장터 API",
-      "matchedKeyword": "진공"
     },
     {
       "t": "｢2026년 배출권거래제 감축설비 지원사업｣_고효율 진공펌프",
