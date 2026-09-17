@@ -1,6 +1,6 @@
 {
   "source": "나라장터 장비공고 레이더",
-  "savedAt": "2026-09-17T13:56:58.036Z",
+  "savedAt": "2026-09-17T14:32:12.049Z",
   "live": true,
   "keywordFile": "GitHub Actions 자동 수집",
   "relatedKeywords": [
@@ -3602,6 +3602,29 @@
       "urgent": false,
       "noticeNumber": "R26BK01729135",
       "noticeUrl": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01729135&bidPbancOrd=000",
+      "source": "조달청 나라장터 API",
+      "matchedKeyword": "웨이퍼"
+    },
+    {
+      "t": "300mm 웨이퍼 매엽식 자동 세정 장비",
+      "o": "나노종합기술원",
+      "k": "나라장터 물품",
+      "y": "물품",
+      "p": "1754545455",
+      "d": "2026.09.23",
+      "s": false,
+      "posted": "2026.09.17",
+      "postedDate": "2026.09.17",
+      "u": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01734807&bidPbancOrd=000",
+      "title": "300mm 웨이퍼 매엽식 자동 세정 장비",
+      "organization": "나노종합기술원",
+      "keyword": "나라장터 물품",
+      "businessType": "물품",
+      "baseAmount": "1754545455",
+      "deadline": "2026.09.23",
+      "urgent": false,
+      "noticeNumber": "R26BK01734807",
+      "noticeUrl": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01734807&bidPbancOrd=000",
       "source": "조달청 나라장터 API",
       "matchedKeyword": "웨이퍼"
     },
