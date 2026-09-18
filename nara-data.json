@@ -1,6 +1,6 @@
 {
   "source": "나라장터 장비공고 레이더",
-  "savedAt": "2026-09-18T22:28:43.740Z",
+  "savedAt": "2026-09-18T23:28:21.181Z",
   "live": true,
   "keywordFile": "GitHub Actions 자동 수집",
   "relatedKeywords": [
@@ -2178,29 +2178,6 @@
       "noticeUrl": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01732533&bidPbancOrd=000",
       "source": "조달청 나라장터 API",
       "matchedKeyword": "반도체"
-    },
-    {
-      "t": "소형 열 원자층 증착기 구매",
-      "o": "중앙대학교 산학협력단",
-      "k": "나라장터 물품",
-      "y": "물품",
-      "p": "73700000",
-      "d": "2026.08.25",
-      "s": false,
-      "posted": "2026.08.19",
-      "postedDate": "2026.08.19",
-      "u": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01689541&bidPbancOrd=000",
-      "title": "소형 열 원자층 증착기 구매",
-      "organization": "중앙대학교 산학협력단",
-      "keyword": "나라장터 물품",
-      "businessType": "물품",
-      "baseAmount": "73700000",
-      "deadline": "2026.08.25",
-      "urgent": false,
-      "noticeNumber": "R26BK01689541",
-      "noticeUrl": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01689541&bidPbancOrd=000",
-      "source": "조달청 나라장터 API",
-      "matchedKeyword": "증착"
     },
     {
       "t": "동국대학교 전자빔 박막 증착 장비 구매",
