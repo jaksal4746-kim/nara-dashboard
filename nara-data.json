@@ -1,6 +1,6 @@
 {
   "source": "나라장터 장비공고 레이더",
-  "savedAt": "2026-09-19T15:54:37.268Z",
+  "savedAt": "2026-09-19T16:29:10.033Z",
   "live": true,
   "keywordFile": "GitHub Actions 자동 수집",
   "relatedKeywords": [
@@ -17,29 +17,6 @@
   "relatedKeywordCount": 9,
   "keywordFiltered": true,
   "results": [
-    {
-      "t": "[울산대학교 RISE(앵커)사업단]신소재반도체융합학부 미러형EdgeCam 수냉식 파이버 레이저 구매 ",
-      "o": "울산대학교 산학협력단",
-      "k": "나라장터 물품",
-      "y": "물품",
-      "p": "26981818",
-      "d": "2026.08.28",
-      "s": false,
-      "posted": "2026.08.20",
-      "postedDate": "2026.08.20",
-      "u": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01691067&bidPbancOrd=000",
-      "title": "[울산대학교 RISE(앵커)사업단]신소재반도체융합학부 미러형EdgeCam 수냉식 파이버 레이저 구매 ",
-      "organization": "울산대학교 산학협력단",
-      "keyword": "나라장터 물품",
-      "businessType": "물품",
-      "baseAmount": "26981818",
-      "deadline": "2026.08.28",
-      "urgent": false,
-      "noticeNumber": "R26BK01691067",
-      "noticeUrl": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01691067&bidPbancOrd=000",
-      "source": "조달청 나라장터 API",
-      "matchedKeyword": "반도체"
-    },
     {
       "t": "[반도체] 2026년도 호남권 반도체공동연구소 구축 장비(Mask Aligner) 구매",
       "o": "국립순천대학교",
@@ -4455,29 +4432,6 @@
       "noticeUrl": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01726042&bidPbancOrd=000",
       "source": "조달청 나라장터 API",
       "matchedKeyword": "반도체"
-    },
-    {
-      "t": "원자층 단위 증착 설비 내부 열유동 해석 컨설팅",
-      "o": "한국과학기술정보연구원",
-      "k": "나라장터 용역",
-      "y": "용역",
-      "p": "20000000",
-      "d": "2026.08.25",
-      "s": false,
-      "posted": "2026.08.20",
-      "postedDate": "2026.08.20",
-      "u": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01685848&bidPbancOrd=000",
-      "title": "원자층 단위 증착 설비 내부 열유동 해석 컨설팅",
-      "organization": "한국과학기술정보연구원",
-      "keyword": "나라장터 용역",
-      "businessType": "용역",
-      "baseAmount": "20000000",
-      "deadline": "2026.08.25",
-      "urgent": false,
-      "noticeNumber": "R26BK01685848",
-      "noticeUrl": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01685848&bidPbancOrd=000",
-      "source": "조달청 나라장터 API",
-      "matchedKeyword": "증착"
     },
     {
       "t": "고진공 반응소결로 수리(부품 교체, 조립, 설치 포함) 용역",
