@@ -1,6 +1,6 @@
 {
   "source": "나라장터 장비공고 레이더",
-  "savedAt": "2026-09-20T10:54:32.140Z",
+  "savedAt": "2026-09-20T11:28:02.941Z",
   "live": true,
   "keywordFile": "GitHub Actions 자동 수집",
   "relatedKeywords": [
@@ -3558,29 +3558,6 @@
       "noticeUrl": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01734807&bidPbancOrd=000",
       "source": "조달청 나라장터 API",
       "matchedKeyword": "웨이퍼"
-    },
-    {
-      "t": "미래 AI반도체 기술개발 로드맵 수립 연구",
-      "o": "한국연구재단 정보통신기획평가원",
-      "k": "나라장터 용역",
-      "y": "용역",
-      "p": "45454545",
-      "d": "2026.09.03",
-      "s": false,
-      "posted": "2026.08.21",
-      "postedDate": "2026.08.21",
-      "u": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01692324&bidPbancOrd=000",
-      "title": "미래 AI반도체 기술개발 로드맵 수립 연구",
-      "organization": "한국연구재단 정보통신기획평가원",
-      "keyword": "나라장터 용역",
-      "businessType": "용역",
-      "baseAmount": "45454545",
-      "deadline": "2026.09.03",
-      "urgent": false,
-      "noticeNumber": "R26BK01692324",
-      "noticeUrl": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01692324&bidPbancOrd=000",
-      "source": "조달청 나라장터 API",
-      "matchedKeyword": "반도체"
     },
     {
       "t": "(물류 휴머노이드 로봇) AX 디바이스용 AI 반도체 적용 기술지원 및 최적화 용역",
