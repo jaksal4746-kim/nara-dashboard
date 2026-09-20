@@ -1,6 +1,6 @@
 {
   "source": "나라장터 장비공고 레이더",
-  "savedAt": "2026-09-20T07:54:50.769Z",
+  "savedAt": "2026-09-20T09:28:37.502Z",
   "live": true,
   "keywordFile": "GitHub Actions 자동 수집",
   "relatedKeywords": [
@@ -17,29 +17,6 @@
   "relatedKeywordCount": 9,
   "keywordFiltered": true,
   "results": [
-    {
-      "t": "[반도체] 2026년도 호남권 반도체공동연구소 구축 장비(Mask Aligner) 구매",
-      "o": "국립순천대학교",
-      "k": "나라장터 물품",
-      "y": "물품",
-      "p": "181818182",
-      "d": "2026.08.25",
-      "s": false,
-      "posted": "2026.08.21",
-      "postedDate": "2026.08.21",
-      "u": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01691181&bidPbancOrd=000",
-      "title": "[반도체] 2026년도 호남권 반도체공동연구소 구축 장비(Mask Aligner) 구매",
-      "organization": "국립순천대학교",
-      "keyword": "나라장터 물품",
-      "businessType": "물품",
-      "baseAmount": "181818182",
-      "deadline": "2026.08.25",
-      "urgent": false,
-      "noticeNumber": "R26BK01691181",
-      "noticeUrl": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01691181&bidPbancOrd=000",
-      "source": "조달청 나라장터 API",
-      "matchedKeyword": "반도체"
-    },
     {
       "t": "금속 박막 형성을 위한 플라즈마 증착 시스템 구축_첨단산업특성화대학원지원(반도체)",
       "o": "한양대학교 산학협력단",
