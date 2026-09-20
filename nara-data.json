@@ -1,6 +1,6 @@
 {
   "source": "나라장터 장비공고 레이더",
-  "savedAt": "2026-09-20T10:28:40.451Z",
+  "savedAt": "2026-09-20T10:54:32.140Z",
   "live": true,
   "keywordFile": "GitHub Actions 자동 수집",
   "relatedKeywords": [
@@ -2086,29 +2086,6 @@
       "noticeUrl": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01736757&bidPbancOrd=000",
       "source": "조달청 나라장터 API",
       "matchedKeyword": "반도체"
-    },
-    {
-      "t": "글러브박스 일체형 열 증착 시스템 구매_260533",
-      "o": "한국과학기술원",
-      "k": "나라장터 물품",
-      "y": "물품",
-      "p": "90000000",
-      "d": "2026.08.27",
-      "s": false,
-      "posted": "2026.08.21",
-      "postedDate": "2026.08.21",
-      "u": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01692226&bidPbancOrd=000",
-      "title": "글러브박스 일체형 열 증착 시스템 구매_260533",
-      "organization": "한국과학기술원",
-      "keyword": "나라장터 물품",
-      "businessType": "물품",
-      "baseAmount": "90000000",
-      "deadline": "2026.08.27",
-      "urgent": false,
-      "noticeNumber": "R26BK01692226",
-      "noticeUrl": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01692226&bidPbancOrd=000",
-      "source": "조달청 나라장터 API",
-      "matchedKeyword": "증착"
     },
     {
       "t": "동국대학교 전자빔 박막 증착 장비 구매",
