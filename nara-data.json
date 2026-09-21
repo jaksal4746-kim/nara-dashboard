@@ -1,6 +1,6 @@
 {
   "source": "나라장터 장비공고 레이더",
-  "savedAt": "2026-09-21T17:54:55.090Z",
+  "savedAt": "2026-09-21T18:33:42.728Z",
   "live": true,
   "keywordFile": "GitHub Actions 자동 수집",
   "relatedKeywords": [
@@ -3165,6 +3165,29 @@
       "urgent": false,
       "noticeNumber": "R26BK01738165",
       "noticeUrl": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01738165&bidPbancOrd=000",
+      "source": "조달청 나라장터 API",
+      "matchedKeyword": "진공"
+    },
+    {
+      "t": "(중진공) 탄소중립 전환 지원사업_인버터 공기압축기",
+      "o": "HSG중공업(주)",
+      "k": "나라장터 물품",
+      "y": "물품",
+      "p": "225000000",
+      "d": "2026.09.23",
+      "s": true,
+      "posted": "2026.09.21",
+      "postedDate": "2026.09.21",
+      "u": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01740057&bidPbancOrd=000",
+      "title": "(중진공) 탄소중립 전환 지원사업_인버터 공기압축기",
+      "organization": "HSG중공업(주)",
+      "keyword": "나라장터 물품",
+      "businessType": "물품",
+      "baseAmount": "225000000",
+      "deadline": "2026.09.23",
+      "urgent": true,
+      "noticeNumber": "R26BK01740057",
+      "noticeUrl": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01740057&bidPbancOrd=000",
       "source": "조달청 나라장터 API",
       "matchedKeyword": "진공"
     },
