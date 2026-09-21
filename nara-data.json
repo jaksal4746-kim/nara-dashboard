@@ -1,6 +1,6 @@
 {
   "source": "나라장터 장비공고 레이더",
-  "savedAt": "2026-09-21T12:56:47.926Z",
+  "savedAt": "2026-09-21T14:31:00.151Z",
   "live": true,
   "keywordFile": "GitHub Actions 자동 수집",
   "relatedKeywords": [
@@ -2544,6 +2544,29 @@
       "urgent": true,
       "noticeNumber": "R26BK01736682",
       "noticeUrl": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01736682&bidPbancOrd=000",
+      "source": "조달청 나라장터 API",
+      "matchedKeyword": "증착"
+    },
+    {
+      "t": "울산과학기술원 플라즈마 화학기상 증착기 구매",
+      "o": "울산과학기술원",
+      "k": "나라장터 물품",
+      "y": "물품",
+      "p": "268181818",
+      "d": "2026.10.02",
+      "s": false,
+      "posted": "2026.09.21",
+      "postedDate": "2026.09.21",
+      "u": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01738895&bidPbancOrd=000",
+      "title": "울산과학기술원 플라즈마 화학기상 증착기 구매",
+      "organization": "울산과학기술원",
+      "keyword": "나라장터 물품",
+      "businessType": "물품",
+      "baseAmount": "268181818",
+      "deadline": "2026.10.02",
+      "urgent": false,
+      "noticeNumber": "R26BK01738895",
+      "noticeUrl": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01738895&bidPbancOrd=000",
       "source": "조달청 나라장터 API",
       "matchedKeyword": "증착"
     },
