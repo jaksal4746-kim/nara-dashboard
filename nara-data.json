@@ -1,6 +1,6 @@
 {
   "source": "나라장터 장비공고 레이더",
-  "savedAt": "2026-09-22T12:58:54.307Z",
+  "savedAt": "2026-09-22T13:31:46.041Z",
   "live": true,
   "keywordFile": "GitHub Actions 자동 수집",
   "relatedKeywords": [
@@ -2153,6 +2153,29 @@
       "urgent": false,
       "noticeNumber": "R26BK01740720",
       "noticeUrl": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01740720&bidPbancOrd=000",
+      "source": "조달청 나라장터 API",
+      "matchedKeyword": "반도체"
+    },
+    {
+      "t": "(가칭)용인반도체고 신축공사 관급자재(빌딩자동제장치) 구매",
+      "o": "경기도교육청 경기도용인교육지원청",
+      "k": "나라장터 물품",
+      "y": "물품",
+      "p": "263082392",
+      "d": "2026.10.07",
+      "s": false,
+      "posted": "2026.09.22",
+      "postedDate": "2026.09.22",
+      "u": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01737892&bidPbancOrd=000",
+      "title": "(가칭)용인반도체고 신축공사 관급자재(빌딩자동제장치) 구매",
+      "organization": "경기도교육청 경기도용인교육지원청",
+      "keyword": "나라장터 물품",
+      "businessType": "물품",
+      "baseAmount": "263082392",
+      "deadline": "2026.10.07",
+      "urgent": false,
+      "noticeNumber": "R26BK01737892",
+      "noticeUrl": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01737892&bidPbancOrd=000",
       "source": "조달청 나라장터 API",
       "matchedKeyword": "반도체"
     },
