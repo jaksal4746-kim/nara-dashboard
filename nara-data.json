@@ -1,6 +1,6 @@
 {
   "source": "나라장터 장비공고 레이더",
-  "savedAt": "2026-09-23T09:56:30.449Z",
+  "savedAt": "2026-09-23T10:56:38.963Z",
   "live": true,
   "keywordFile": "GitHub Actions 자동 수집",
   "relatedKeywords": [
@@ -3487,6 +3487,29 @@
       "urgent": false,
       "noticeNumber": "R26BK01728814",
       "noticeUrl": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01728814&bidPbancOrd=000",
+      "source": "조달청 나라장터 API",
+      "matchedKeyword": "sputtering"
+    },
+    {
+      "t": "[수의시담]RF/DC 듀얼 소스 마그네트론 스퍼터링 시스템(Magnetron Sputtering System)",
+      "o": "한국공학대학교 산학협력단",
+      "k": "나라장터 물품",
+      "y": "물품",
+      "p": "141750000",
+      "d": "2026.09.23",
+      "s": true,
+      "posted": "2026.09.23",
+      "postedDate": "2026.09.23",
+      "u": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01743210&bidPbancOrd=000",
+      "title": "[수의시담]RF/DC 듀얼 소스 마그네트론 스퍼터링 시스템(Magnetron Sputtering System)",
+      "organization": "한국공학대학교 산학협력단",
+      "keyword": "나라장터 물품",
+      "businessType": "물품",
+      "baseAmount": "141750000",
+      "deadline": "2026.09.23",
+      "urgent": true,
+      "noticeNumber": "R26BK01743210",
+      "noticeUrl": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01743210&bidPbancOrd=000",
       "source": "조달청 나라장터 API",
       "matchedKeyword": "sputtering"
     },
