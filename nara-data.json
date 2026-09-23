@@ -1,6 +1,6 @@
 {
   "source": "나라장터 장비공고 레이더",
-  "savedAt": "2026-09-23T10:56:38.963Z",
+  "savedAt": "2026-09-23T11:55:49.831Z",
   "live": true,
   "keywordFile": "GitHub Actions 자동 수집",
   "relatedKeywords": [
@@ -3857,29 +3857,6 @@
       "noticeUrl": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01734807&bidPbancOrd=000",
       "source": "조달청 나라장터 API",
       "matchedKeyword": "웨이퍼"
-    },
-    {
-      "t": "반도체 분야 STEP 신규 콘텐츠 개발 방안 연구",
-      "o": "한국기술교육대학교",
-      "k": "나라장터 용역",
-      "y": "용역",
-      "p": "45454545",
-      "d": "2026.09.04",
-      "s": false,
-      "posted": "2026.08.24",
-      "postedDate": "2026.08.24",
-      "u": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01694379&bidPbancOrd=000",
-      "title": "반도체 분야 STEP 신규 콘텐츠 개발 방안 연구",
-      "organization": "한국기술교육대학교",
-      "keyword": "나라장터 용역",
-      "businessType": "용역",
-      "baseAmount": "45454545",
-      "deadline": "2026.09.04",
-      "urgent": false,
-      "noticeNumber": "R26BK01694379",
-      "noticeUrl": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01694379&bidPbancOrd=000",
-      "source": "조달청 나라장터 API",
-      "matchedKeyword": "반도체"
     },
     {
       "t": "GIST AI반도체연구원 설립 기획보고서 작성",
