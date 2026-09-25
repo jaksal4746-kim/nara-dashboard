@@ -1,6 +1,6 @@
 {
   "source": "나라장터 장비공고 레이더",
-  "savedAt": "2026-09-25T14:32:25.909Z",
+  "savedAt": "2026-09-25T14:57:55.019Z",
   "live": true,
   "keywordFile": "GitHub Actions 자동 수집",
   "relatedKeywords": [
@@ -2201,29 +2201,6 @@
       "noticeUrl": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01743530&bidPbancOrd=000",
       "source": "조달청 나라장터 API",
       "matchedKeyword": "반도체"
-    },
-    {
-      "t": "첨단산업 인재양성 디스플레이 부트캠프 다목적 박막 증착용 스퍼터 시스템 구매입찰",
-      "o": "한양대학교 에리카산학협력단",
-      "k": "나라장터 물품",
-      "y": "물품",
-      "p": "76000000",
-      "d": "2026.09.04",
-      "s": false,
-      "posted": "2026.08.26",
-      "postedDate": "2026.08.26",
-      "u": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01699486&bidPbancOrd=000",
-      "title": "첨단산업 인재양성 디스플레이 부트캠프 다목적 박막 증착용 스퍼터 시스템 구매입찰",
-      "organization": "한양대학교 에리카산학협력단",
-      "keyword": "나라장터 물품",
-      "businessType": "물품",
-      "baseAmount": "76000000",
-      "deadline": "2026.09.04",
-      "urgent": false,
-      "noticeNumber": "R26BK01699486",
-      "noticeUrl": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01699486&bidPbancOrd=000",
-      "source": "조달청 나라장터 API",
-      "matchedKeyword": "증착"
     },
     {
       "t": "(재공고) 글러브박스 일체형 열 증착 시스템 구매_260533",
