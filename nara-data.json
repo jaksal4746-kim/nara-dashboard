@@ -1,6 +1,6 @@
 {
   "source": "나라장터 장비공고 레이더",
-  "savedAt": "2026-09-26T20:10:53.801Z",
+  "savedAt": "2026-09-26T22:56:10.599Z",
   "live": true,
   "keywordFile": "GitHub Actions 자동 수집",
   "relatedKeywords": [
@@ -3236,29 +3236,6 @@
       "noticeUrl": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01731067&bidPbancOrd=000",
       "source": "조달청 나라장터 API",
       "matchedKeyword": "스퍼터"
-    },
-    {
-      "t": "웨이퍼절단기(Dicing Saw) 구매",
-      "o": "한국해양대학교 산학협력단",
-      "k": "나라장터 물품",
-      "y": "물품",
-      "p": "79090909",
-      "d": "2026.09.14",
-      "s": false,
-      "posted": "2026.08.27",
-      "postedDate": "2026.08.27",
-      "u": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01701022&bidPbancOrd=000",
-      "title": "웨이퍼절단기(Dicing Saw) 구매",
-      "organization": "한국해양대학교 산학협력단",
-      "keyword": "나라장터 물품",
-      "businessType": "물품",
-      "baseAmount": "79090909",
-      "deadline": "2026.09.14",
-      "urgent": false,
-      "noticeNumber": "R26BK01701022",
-      "noticeUrl": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01701022&bidPbancOrd=000",
-      "source": "조달청 나라장터 API",
-      "matchedKeyword": "웨이퍼"
     },
     {
       "t": "웨이퍼와이어본딩기 구매",
