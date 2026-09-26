@@ -1,6 +1,6 @@
 {
   "source": "나라장터 장비공고 레이더",
-  "savedAt": "2026-09-26T08:31:12.559Z",
+  "savedAt": "2026-09-26T08:55:34.893Z",
   "live": true,
   "keywordFile": "GitHub Actions 자동 수집",
   "relatedKeywords": [
@@ -2707,29 +2707,6 @@
       "noticeUrl": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01742239&bidPbancOrd=000",
       "source": "조달청 나라장터 API",
       "matchedKeyword": "증착"
-    },
-    {
-      "t": "소재부품기술개발사업_저 진공 열처리 시스템 구매",
-      "o": "한국테크노돔",
-      "k": "나라장터 물품",
-      "y": "물품",
-      "p": "45400000",
-      "d": "2026.09.07",
-      "s": false,
-      "posted": "2026.08.27",
-      "postedDate": "2026.08.27",
-      "u": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01687228&bidPbancOrd=000",
-      "title": "소재부품기술개발사업_저 진공 열처리 시스템 구매",
-      "organization": "한국테크노돔",
-      "keyword": "나라장터 물품",
-      "businessType": "물품",
-      "baseAmount": "45400000",
-      "deadline": "2026.09.07",
-      "urgent": false,
-      "noticeNumber": "R26BK01687228",
-      "noticeUrl": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01687228&bidPbancOrd=000",
-      "source": "조달청 나라장터 API",
-      "matchedKeyword": "진공"
     },
     {
       "t": "진공용 실시간 FT-IR",
