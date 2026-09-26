@@ -1,6 +1,6 @@
 {
   "source": "나라장터 장비공고 레이더",
-  "savedAt": "2026-09-26T17:25:33.616Z",
+  "savedAt": "2026-09-26T20:10:53.801Z",
   "live": true,
   "keywordFile": "GitHub Actions 자동 수집",
   "relatedKeywords": [
@@ -4073,9 +4073,9 @@
       "p": "721164545",
       "d": "2026.09.10",
       "s": false,
-      "posted": "2026.08.27",
-      "postedDate": "2026.08.27",
-      "u": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01700966&bidPbancOrd=000",
+      "posted": "2026.08.28",
+      "postedDate": "2026.08.28",
+      "u": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01700966&bidPbancOrd=001",
       "title": "한국폴리텍대학 반도체융합캠퍼스 학생회관 증축공사 감리 용역(통합)",
       "organization": "한국폴리텍대학반도체융합캠퍼스",
       "keyword": "나라장터 용역",
@@ -4084,7 +4084,7 @@
       "deadline": "2026.09.10",
       "urgent": false,
       "noticeNumber": "R26BK01700966",
-      "noticeUrl": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01700966&bidPbancOrd=000",
+      "noticeUrl": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01700966&bidPbancOrd=001",
       "source": "조달청 나라장터 API",
       "matchedKeyword": "반도체"
     },
