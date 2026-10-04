@@ -1,6 +1,6 @@
 {
   "source": "나라장터 장비공고 레이더",
-  "savedAt": "2026-10-04T06:00:41.930Z",
+  "savedAt": "2026-10-04T12:28:32.668Z",
   "live": true,
   "keywordFile": "GitHub Actions 자동 수집",
   "relatedKeywords": [
@@ -17,29 +17,6 @@
   "relatedKeywordCount": 9,
   "keywordFiltered": true,
   "results": [
-    {
-      "t": "5G무선통신용 밀리터리파 및 RF 반도체 특성 네트워크 분석시스템 구매",
-      "o": "충북대학교산학협력단",
-      "k": "나라장터 물품",
-      "y": "물품",
-      "p": "133788000",
-      "d": "2026.09.18",
-      "s": false,
-      "posted": "2026.09.04",
-      "postedDate": "2026.09.04",
-      "u": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01713611&bidPbancOrd=000",
-      "title": "5G무선통신용 밀리터리파 및 RF 반도체 특성 네트워크 분석시스템 구매",
-      "organization": "충북대학교산학협력단",
-      "keyword": "나라장터 물품",
-      "businessType": "물품",
-      "baseAmount": "133788000",
-      "deadline": "2026.09.18",
-      "urgent": false,
-      "noticeNumber": "R26BK01713611",
-      "noticeUrl": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01713611&bidPbancOrd=000",
-      "source": "조달청 나라장터 API",
-      "matchedKeyword": "반도체"
-    },
     {
       "t": "플라즈마 기반 반도체 공정가스 저감장치 제작",
       "o": "한국생산기술연구원",
@@ -2603,7 +2580,7 @@
       "s": false,
       "posted": "2026.09.04",
       "postedDate": "2026.09.04",
-      "u": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01713858&bidPbancOrd=000",
+      "u": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01713858&bidPbancOrd=001",
       "title": "폐수처리시설 진공펌프 구매",
       "organization": "(주)코벡",
       "keyword": "나라장터 물품",
@@ -2612,7 +2589,7 @@
       "deadline": "2026.09.04",
       "urgent": false,
       "noticeNumber": "R26BK01713858",
-      "noticeUrl": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01713858&bidPbancOrd=000",
+      "noticeUrl": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01713858&bidPbancOrd=001",
       "source": "조달청 나라장터 API",
       "matchedKeyword": "진공"
     },
