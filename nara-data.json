@@ -1,6 +1,6 @@
 {
   "source": "나라장터 장비공고 레이더",
-  "savedAt": "2026-10-08T16:34:19.708Z",
+  "savedAt": "2026-10-08T21:33:40.388Z",
   "live": true,
   "keywordFile": "GitHub Actions 자동 수집",
   "relatedKeywords": [
@@ -2590,6 +2590,29 @@
       "urgent": false,
       "noticeNumber": "R26BK01761825",
       "noticeUrl": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01761825&bidPbancOrd=000",
+      "source": "조달청 나라장터 API",
+      "matchedKeyword": "증착"
+    },
+    {
+      "t": "다중원소 스퍼터 증착기",
+      "o": "광주과학기술원",
+      "k": "나라장터 물품",
+      "y": "물품",
+      "p": "87500000",
+      "d": "2026.10.15",
+      "s": false,
+      "posted": "2026.10.08",
+      "postedDate": "2026.10.08",
+      "u": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01763403&bidPbancOrd=000",
+      "title": "다중원소 스퍼터 증착기",
+      "organization": "광주과학기술원",
+      "keyword": "나라장터 물품",
+      "businessType": "물품",
+      "baseAmount": "87500000",
+      "deadline": "2026.10.15",
+      "urgent": false,
+      "noticeNumber": "R26BK01763403",
+      "noticeUrl": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01763403&bidPbancOrd=000",
       "source": "조달청 나라장터 API",
       "matchedKeyword": "증착"
     },
