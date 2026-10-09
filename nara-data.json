@@ -1,6 +1,6 @@
 {
   "source": "나라장터 장비공고 레이더",
-  "savedAt": "2026-10-09T15:21:07.274Z",
+  "savedAt": "2026-10-09T20:21:13.026Z",
   "live": true,
   "keywordFile": "GitHub Actions 자동 수집",
   "relatedKeywords": [
@@ -3328,29 +3328,6 @@
       "noticeUrl": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01761256&bidPbancOrd=000",
       "source": "조달청 나라장터 API",
       "matchedKeyword": "웨이퍼"
-    },
-    {
-      "t": "[대학일자리+]건국대학교 2026학년도 반도체 실습 프로그램 위탁업체 선정",
-      "o": "건국대학교",
-      "k": "나라장터 용역",
-      "y": "용역",
-      "p": "19090909",
-      "d": "2026.09.23",
-      "s": false,
-      "posted": "2026.09.09",
-      "postedDate": "2026.09.09",
-      "u": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01721803&bidPbancOrd=000",
-      "title": "[대학일자리+]건국대학교 2026학년도 반도체 실습 프로그램 위탁업체 선정",
-      "organization": "건국대학교",
-      "keyword": "나라장터 용역",
-      "businessType": "용역",
-      "baseAmount": "19090909",
-      "deadline": "2026.09.23",
-      "urgent": false,
-      "noticeNumber": "R26BK01721803",
-      "noticeUrl": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01721803&bidPbancOrd=000",
-      "source": "조달청 나라장터 API",
-      "matchedKeyword": "반도체"
     },
     {
       "t": "화합물반도체 전략 파운드리 구축을 위한 법률자문 ",
