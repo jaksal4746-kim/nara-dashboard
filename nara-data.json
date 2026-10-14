@@ -1,6 +1,6 @@
 {
   "source": "나라장터 장비공고 레이더",
-  "savedAt": "2026-10-14T20:59:27.063Z",
+  "savedAt": "2026-10-14T23:57:48.386Z",
   "live": true,
   "keywordFile": "GitHub Actions 자동 수집",
   "relatedKeywords": [
@@ -3809,6 +3809,29 @@
       "urgent": false,
       "noticeNumber": "R26BK01767521",
       "noticeUrl": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01767521&bidPbancOrd=000",
+      "source": "조달청 나라장터 API",
+      "matchedKeyword": "반도체"
+    },
+    {
+      "t": "차세대 첨단패키징(CPO, 유리기판, 차량용반도체 등) 기술기획 조사",
+      "o": "(재)충남연구원",
+      "k": "나라장터 용역",
+      "y": "용역",
+      "p": "36363636",
+      "d": "",
+      "s": false,
+      "posted": "2026.10.14",
+      "postedDate": "2026.10.14",
+      "u": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01771945&bidPbancOrd=000",
+      "title": "차세대 첨단패키징(CPO, 유리기판, 차량용반도체 등) 기술기획 조사",
+      "organization": "(재)충남연구원",
+      "keyword": "나라장터 용역",
+      "businessType": "용역",
+      "baseAmount": "36363636",
+      "deadline": "",
+      "urgent": false,
+      "noticeNumber": "R26BK01771945",
+      "noticeUrl": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01771945&bidPbancOrd=000",
       "source": "조달청 나라장터 API",
       "matchedKeyword": "반도체"
     },
