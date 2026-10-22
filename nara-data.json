@@ -1,6 +1,6 @@
 {
   "source": "나라장터 장비공고 레이더",
-  "savedAt": "2026-10-21T20:55:30.819Z",
+  "savedAt": "2026-10-22T00:03:40.371Z",
   "live": true,
   "keywordFile": "GitHub Actions 자동 수집",
   "relatedKeywords": [
@@ -1950,29 +1950,6 @@
       "matchedKeyword": "반도체"
     },
     {
-      "t": "대면적 유/무기 열증착 시스템",
-      "o": "광주과학기술원",
-      "k": "나라장터 물품",
-      "y": "물품",
-      "p": "88500000",
-      "d": "2026.10.02",
-      "s": false,
-      "posted": "2026.09.21",
-      "postedDate": "2026.09.21",
-      "u": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01740352&bidPbancOrd=000",
-      "title": "대면적 유/무기 열증착 시스템",
-      "organization": "광주과학기술원",
-      "keyword": "나라장터 물품",
-      "businessType": "물품",
-      "baseAmount": "88500000",
-      "deadline": "2026.10.02",
-      "urgent": false,
-      "noticeNumber": "R26BK01740352",
-      "noticeUrl": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01740352&bidPbancOrd=000",
-      "source": "조달청 나라장터 API",
-      "matchedKeyword": "증착"
-    },
-    {
       "t": "첨단산업 인재양성 디스플레이 부트캠프 다목적 박막 증착용 스퍼터 시스템 구매입찰",
       "o": "한양대학교 에리카산학협력단",
       "k": "나라장터 물품",
@@ -2569,29 +2546,6 @@
       "noticeUrl": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01782225&bidPbancOrd=000",
       "source": "조달청 나라장터 API",
       "matchedKeyword": "증착"
-    },
-    {
-      "t": "수의공고문)(전문대학혁신지원사업)문화유산보존기술과 진공포장기 외 10종 구매",
-      "o": "대전과학기술대학교 산학협력단",
-      "k": "나라장터 물품",
-      "y": "물품",
-      "p": "36582000",
-      "d": "2026.09.29",
-      "s": false,
-      "posted": "2026.09.21",
-      "postedDate": "2026.09.21",
-      "u": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01740349&bidPbancOrd=000",
-      "title": "수의공고문)(전문대학혁신지원사업)문화유산보존기술과 진공포장기 외 10종 구매",
-      "organization": "대전과학기술대학교 산학협력단",
-      "keyword": "나라장터 물품",
-      "businessType": "물품",
-      "baseAmount": "36582000",
-      "deadline": "2026.09.29",
-      "urgent": false,
-      "noticeNumber": "R26BK01740349",
-      "noticeUrl": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01740349&bidPbancOrd=000",
-      "source": "조달청 나라장터 API",
-      "matchedKeyword": "진공"
     },
     {
       "t": "고진공텅스텐로",
