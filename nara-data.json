@@ -1,6 +1,6 @@
 {
   "source": "나라장터 장비공고 레이더",
-  "savedAt": "2026-10-27T19:00:45.355Z",
+  "savedAt": "2026-10-27T22:59:49.492Z",
   "live": true,
   "keywordFile": "GitHub Actions 자동 수집",
   "relatedKeywords": [
@@ -2406,6 +2406,29 @@
       "urgent": true,
       "noticeNumber": "R26BK01793138",
       "noticeUrl": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01793138&bidPbancOrd=000",
+      "source": "조달청 나라장터 API",
+      "matchedKeyword": "증착"
+    },
+    {
+      "t": "75mm 석영관용 관형 화학기상증착 시스템",
+      "o": "광주과학기술원",
+      "k": "나라장터 물품",
+      "y": "물품",
+      "p": "42500000",
+      "d": "2026.11.04",
+      "s": false,
+      "posted": "2026.10.27",
+      "postedDate": "2026.10.27",
+      "u": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01794984&bidPbancOrd=000",
+      "title": "75mm 석영관용 관형 화학기상증착 시스템",
+      "organization": "광주과학기술원",
+      "keyword": "나라장터 물품",
+      "businessType": "물품",
+      "baseAmount": "42500000",
+      "deadline": "2026.11.04",
+      "urgent": false,
+      "noticeNumber": "R26BK01794984",
+      "noticeUrl": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01794984&bidPbancOrd=000",
       "source": "조달청 나라장터 API",
       "matchedKeyword": "증착"
     },
