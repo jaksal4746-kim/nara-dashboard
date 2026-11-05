@@ -1,6 +1,6 @@
 {
   "source": "나라장터 장비공고 레이더",
-  "savedAt": "2026-11-05T02:35:15.905Z",
+  "savedAt": "2026-11-05T09:53:49.335Z",
   "live": true,
   "keywordFile": "GitHub Actions 자동 수집",
   "relatedKeywords": [
@@ -17,29 +17,6 @@
   "relatedKeywordCount": 9,
   "keywordFiltered": true,
   "results": [
-    {
-      "t": "(재공고)오산대학교 AI반도체계열 실험실습기자재(광학방출분광계) 구매",
-      "o": "오산대학산학협력단",
-      "k": "나라장터 물품",
-      "y": "물품",
-      "p": "26545455",
-      "d": "2026.10.06",
-      "s": false,
-      "posted": "2026.10.06",
-      "postedDate": "2026.10.06",
-      "u": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01756396&bidPbancOrd=000",
-      "title": "(재공고)오산대학교 AI반도체계열 실험실습기자재(광학방출분광계) 구매",
-      "organization": "오산대학산학협력단",
-      "keyword": "나라장터 물품",
-      "businessType": "물품",
-      "baseAmount": "26545455",
-      "deadline": "2026.10.06",
-      "urgent": false,
-      "noticeNumber": "R26BK01756396",
-      "noticeUrl": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01756396&bidPbancOrd=000",
-      "source": "조달청 나라장터 API",
-      "matchedKeyword": "반도체"
-    },
     {
       "t": "반도체특성화대학사업단 CIS용 ADC 시제품 제작 구매",
       "o": "부산대학교 산학협력단",
